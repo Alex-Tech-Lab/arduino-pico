@@ -13,6 +13,7 @@ See https://arduino-pico.readthedocs.io/en/latest/ along with the examples for m
 Read the [Contributing Guide](https://github.com/bauer-alex-174/arduino-pico/blob/master/docs/contrib.rst) for more information on submitting pull requests and porting libraries or sketches to this core.
 
 # Supported Boards
+* Alyx Base V2
 * Raspberry Pi Pico
 * Raspberry Pi Pico W
 * Raspberry Pi Pico 2
@@ -187,7 +188,7 @@ Open up the Arduino IDE and go to File->Preferences.
 
 In the dialog that pops up, enter the following URL in the "Additional Boards Manager URLs" field:
 
-https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+https://github.com/bauer-alex-174/arduino-pico/releases/download/global/package_rp2_index.json
 
 ![image](https://user-images.githubusercontent.com/11875/111917251-3c57f400-8a3c-11eb-8120-810a8328ab3f.png)
 
@@ -209,7 +210,7 @@ may be errors when attempting to clone the submodules.
 To install via GIT (for latest and greatest versions):
 ````
 mkdir -p ~/Arduino/hardware/pico
-git clone https://github.com/earlephilhower/arduino-pico.git ~/Arduino/hardware/pico/rp2040
+git clone https://github.com/bauer-alex-174/arduino-pico.git ~/Arduino/hardware/pico/rp2040
 cd ~/Arduino/hardware/pico/rp2040
 git submodule update --init
 cd pico-sdk
