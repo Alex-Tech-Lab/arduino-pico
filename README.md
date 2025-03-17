@@ -1,6 +1,6 @@
 # Arduino-Pico
-[![Release](https://img.shields.io/github/v/release/earlephilhower/arduino-pico?style=plastic)](https://github.com/earlephilhower/arduino-pico/releases)
-[![Gitter](https://img.shields.io/gitter/room/earlephilhower/arduino-pico?style=plastic)](https://gitter.im/arduino-pico/community)
+[![Release](https://img.shields.io/github/v/release/bauer-alex-174/arduino-pico?style=plastic)](https://github.com/bauer-alex-174/arduino-pico/releases)
+[![Gitter](https://img.shields.io/gitter/room/bauer-alex-174/arduino-pico?style=plastic)](https://gitter.im/arduino-pico/community)
 
 Raspberry Pi Pico Arduino core, for all RP2040 and RP2350 boards
 
@@ -10,7 +10,7 @@ This is a port of Arduino to the RP2040 (Raspberry Pi Pico processor) and RP2350
 See https://arduino-pico.readthedocs.io/en/latest/ along with the examples for more detailed usage information.
 
 # Contributing
-Read the [Contributing Guide](https://github.com/earlephilhower/arduino-pico/blob/master/docs/contrib.rst) for more information on submitting pull requests and porting libraries or sketches to this core.
+Read the [Contributing Guide](https://github.com/bauer-alex-174/arduino-pico/blob/master/docs/contrib.rst) for more information on submitting pull requests and porting libraries or sketches to this core.
 
 # Supported Boards
 * Raspberry Pi Pico
