@@ -1,7 +1,7 @@
 {
    "packages": [
       {
-         "name": "rp2",
+         "name": "rp2040",
          "maintainer": "Alexander Bauer",
          "websiteURL": "https://github.com/bauer-alex-174/arduino-pico",
          "email": "",
@@ -14,7 +14,7 @@
                "name": "Raspberry Pi Pico/RP2040/RP2350",
                "url": "",
                "version": "",
-               "architecture": "rp2",
+               "architecture": "rp2040",
                "archiveFileName": "",
                "boards": [
                   {
