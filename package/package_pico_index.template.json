@@ -240,10 +240,13 @@
                      "name": "nullbits Bit-C PRO"
                   },
                   {
-                     "name": "Olimex RP2040-Pico30 2MB"
+                     "name": "Olimex Pico2XL"
                   },
                   {
-                     "name": "Olimex RP2040-Pico30 16MB"
+                     "name": "Olimex Pico2XXL"
+                  },
+                  {
+                     "name": "Olimex RP2040-Pico30"
                   },
                   {
                      "name": "Pimoroni PGA2040"
@@ -262,6 +265,9 @@
                   },
                   {
                      "name": "Pimoroni Plasma2350"
+                  },
+                  {
+                     "name": "Pimoroni Servo2040"
                   },
                   {
                      "name": "Pimoroni Tiny2040"

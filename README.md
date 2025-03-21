@@ -76,12 +76,15 @@ Read the [Contributing Guide](https://github.com/bauer-alex-174/arduino-pico/blo
 * Neko Systems BL2040 Mini
 * Newsan Archi
 * nullbits Bit-C PRO
+* Olimex Pico2XL
+* Olimex Pico2XXL
 * Olimex RP2040-Pico30
 * Pimoroni PGA2040
 * Pimoroni Pico Plus 2
 * Pimoroni Pico Plus 2W
 * Pimoroni Plasma2040
 * Pimoroni Plasma2350
+* Pimoroni Servo2040
 * Pimoroni Tiny2040
 * Pimoroni Tiny2350
 * Pintronix PinMax
