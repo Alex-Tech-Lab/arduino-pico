@@ -10,7 +10,7 @@ This is a port of Arduino to the RP2040 (Raspberry Pi Pico processor) and RP2350
 See https://arduino-pico.readthedocs.io/en/latest/ along with the examples for more detailed usage information.
 
 # Contributing
-Read the [Contributing Guide](https://github.com/bauer-alex-174/arduino-pico/blob/master/docs/contrib.rst) for more information on submitting pull requests and porting libraries or sketches to this core.
+Read the [Contributing Guide](https://github.com/Alex-Tech-Lab/arduino-pico/blob/master/docs/contrib.rst) for more information on submitting pull requests and porting libraries or sketches to this core.
 
 # Supported Boards
 * Alyx Base V2
