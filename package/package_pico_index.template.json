@@ -84,6 +84,9 @@
                      "name": "Adafruit KB2040"
                   },
                   {
+                     "name": "Adafruit Feather RP2350 Adalogger"
+                  },
+                  {
                      "name": "Adafruit Feather RP2350 HSTX"
                   },
                   {
@@ -91,6 +94,9 @@
                   },
                   {
                      "name": "Adafruit Metro RP2350"
+                  },
+                  {
+                     "name": "Adafruit Fruit Jam RP2350"
                   },
                   {
                      "name": "Amken BunnyBoard"
