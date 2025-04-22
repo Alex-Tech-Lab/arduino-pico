@@ -3,7 +3,7 @@
       {
          "name": "rp2040",
          "maintainer": "Alexander Bauer",
-         "websiteURL": "https://github.com/bauer-alex-174/arduino-pico",
+         "websiteURL": "https://github.com/Alex-Tech-Lab/arduino-pico",
          "email": "",
          "help": {
             "online": "https://arduino-pico.readthedocs.io/en/latest/"
