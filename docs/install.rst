@@ -10,7 +10,7 @@ installation.
 Installing via Arduino Boards Manager
 -------------------------------------
 1. Open up the Arduino IDE and go to File->Preferences.
-2. In the dialog that pops up, enter the following URL in the "Additional Boards Manager URLs" field:  https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+2. In the dialog that pops up, enter the following URL in the "Additional Boards Manager URLs" field:  https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2_index.json
 
    .. image:: images/install1.png
 
@@ -42,7 +42,7 @@ To install using the Arduino command line tool (arduino-cli):
 
 .. code:: bash
 
-        arduino-cli config add board_manager.additional_urls https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+        arduino-cli config add board_manager.additional_urls https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2_index.json
         arduino-cli core update-index
         arduino-cli core install rp2040:rp2040
 
