@@ -2,9 +2,9 @@
    "packages": [
       {
          "name": "rp2040",
-         "maintainer": "Earle F. Philhower, III",
-         "websiteURL": "https://github.com/earlephilhower/arduino-pico",
-         "email": "earlephilhower@yahoo.com",
+         "maintainer": "Alexander Bauer",
+         "websiteURL": "https://github.com/bauer-alex-174/arduino-pico",
+         "email": "",
          "help": {
             "online": "https://arduino-pico.readthedocs.io/en/latest/"
          },
@@ -17,6 +17,9 @@
                "architecture": "rp2040",
                "archiveFileName": "",
                "boards": [
+                  {
+                     "name": "Alyx Base"
+                  },
                   {
                      "name": "Raspberry Pi Pico"
                   },
