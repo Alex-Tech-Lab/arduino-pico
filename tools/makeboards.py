@@ -495,6 +495,8 @@ BuildGlobalMenuList()
 
 # Alyx
 MakeBoard("alyx_base_v2", "rp2040", "Alyx", "Base", "0x2e8a", "0x000a", 250, "ALYX_BASE_V2", 2, 0, "boot2_w25q080_2_padded_checksum")
+MakeBoard("alyx_base_v3", "rp22350", "Alyx", "Base", "0x2e8a", "0x000a", 250, "ALYX_BASE_V3", 16, 8, none)
+MakeBoard("alyx_base_v3_w", "rp22350", "Alyx", "Base", "0x2e8a", "0x000a", 250, "ALYX_BASE_V3_W", 16, 8, none, ["PICO_CYW43_SUPPORTED=1", "CYW43_PIN_WL_DYNAMIC=1"])
 
 # Raspberry Pi
 MakeBoard("rpipico", "rp2040", "Raspberry Pi", "Pico", "0x2e8a", "0x000a", 250, "RASPBERRY_PI_PICO", 2, 0, "boot2_w25q080_2_padded_checksum")
