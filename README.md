@@ -14,6 +14,8 @@ Read the [Contributing Guide](https://github.com/bauer-alex-174/arduino-pico/blo
 
 # Supported Boards
 * Alyx Base V2
+* Alyx Base V3
+* Alyx Base V3 W
 * Raspberry Pi Pico
 * Raspberry Pi Pico W
 * Raspberry Pi Pico 2
